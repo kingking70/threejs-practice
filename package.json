@@ -1,0 +1,21 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0",
+    "lil-gui": "^0.19.1",
+    "three": "^0.158.0",
+    "vercel": "^32.5.3",
+    "vite": "^4.5.0"
+  }
+}
